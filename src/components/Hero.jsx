@@ -77,7 +77,7 @@ const Hero = () => {
 
             <img
                 src="/images/hero-left-leaf.png"
-                alt="left-leaf"
+                alt="left-garlic"
                 className="left-leaf"
             />
             <img
@@ -96,13 +96,13 @@ const Hero = () => {
                         </p>
                     </div>
 
-                    <div className="view-cocktails">
+                    <div className="view-menu">
                         <p className="subtitle">
                             Every cocktail on our menu is a blend of premium ingredients,
                             creative flair, and timeless recipes — designed to delight your
                             senses.
                         </p>
-                        <a href="#cocktails">View cocktails</a>
+                        <a href="#cocktails">View menu</a>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@ const Hero = () => {
                 muted
                 playsInline
                 preload="auto"
-                src="/videos/output.mp4"
+                src="/videos/output1.mp4"
             />
         </div>
     </>

@@ -10,3 +10,28 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# 🚀 [Mojito Animation Website] - Landing Page ReactJS
+
+## 📌 Introduce
+[This is a pub-themed landing page, with a friendly, modern, easy-to-use design, using eye-catching GSAP animation.]
+
+---
+
+## 🛠️ Tech Stack
+- [ReactJS](https://reactjs.org/) - UI Library
+- [TailwindCSS / SCSS / Styled-components] - Styling
+- [GSAP / Framer Motion] - animation
+
+---
+
+## 📂 Directory structure
+```plaintext
+src/
+  assets/         # Imgages, icon, font
+  components/     # Resused-component (Navbar, Button, Footer...)
+  pages/          # Các trang (LandingPage, About, Contact...)
+  styles/         # File CSS/SCSS/Tailwind config
+  utils/          # Utility function
+  App.js          # Root component
+  index.js        # Entry point
