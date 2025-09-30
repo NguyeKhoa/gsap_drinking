@@ -27,11 +27,16 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 📂 Directory structure
 ```plaintext
+constants/
+  index.js
+public/
+  fonts/          #Modern Negra Demo.ttf
+  images/         #Can be customed
+  screenshot/
+  videos/         #Can be customed
+  vite.svg  
 src/
-  assets/         # Imgages, icon, font
-  components/     # Resused-component (Navbar, Button, Footer...)
-  pages/          # Các trang (LandingPage, About, Contact...)
-  styles/         # File CSS/SCSS/Tailwind config
-  utils/          # Utility function
-  App.js          # Root component
-  index.js        # Entry point
+  components/     # Resused-component (Navbar, Hero,Cocktails, About, Art, Menu, Contact...)
+  App.jsx         # Root component
+  index.CSS       # Entry point
+  main.jsx  
