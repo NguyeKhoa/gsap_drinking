@@ -38,7 +38,7 @@ const Contact = () => {
                 <h2>Where to Find Us</h2>
 
                 <div>
-                    <h3>Visit Our Bar</h3>
+                    <h3>Visit Our Pub</h3>
                     <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
                 </div>
 
