@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# 🚀 [Mojito Animation Website] - Landing Page ReactJS
+# 🚀 [Velvet Pour- An Animation Website] - Landing Page ReactJS
 
 ## 📌 Introduce
 [This is a pub-themed landing page, with a friendly, modern, easy-to-use design, using eye-catching GSAP animation.]
